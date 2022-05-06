@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mainDiv0{
+    width: 100%;
+    min-height: 459px;
+    /* background-color: aquamarine; */
+    margin: auto;
+    display: flex;
+}
+.firstDiv1{
+    width: 25%;
+    color: #ffffff;
+    background-color: #001730;
+   height: 460px;
+}
+.firstDiv2{
+    width: 50%;
+    color: #111111;
+    background-color: #4ad7d1;
+    height: 460px;
+    text-align: left;
+    position: relative;
+    
+    
+    
+   
+
+}
+.firstDiv3{
+    width: 25%;
+    background-color: blueviolet;
+    height: 460px;
+    background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/f3a31b5ba8155af9ab3b1b38/pexelsphoto1438275.jpeg");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+.firstHeading1{
+    font-size: 10.5rem;
+    line-height: 1.2;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    top: 100px;
+    position: relative;
+    
+
+    
+}
+.firstHeading2{
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+   
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.2;
+   color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Lora, serif;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    top: 50px;
+    
+
+
+}
+.heading3{
+    font-weight: 400;
+    font-size: 3.5rem;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Lora, serif;
+    color: #ffffff;
+    margin-left: 20px;
+    position: relative;
+    top: 50px;
+    align-items: center;
+    width: 90%;
+}
+.textpara{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    margin-left: 20px;
+    position: relative;
+    top: 50px;
+    font-size: 18px;
+}
+.readBtn{
+    position: relative;
+    background-image: none;
+    font-size: 0.875rem;
+    letter-spacing: 1px;
+    margin: 20px;
+    align-items:center;
+    /* margin: 20px auto 45px 0; */
+    color: #ffffff !important;
+    background-color: #fe4a49 !important;
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 0;
+    text-decoration: none;
+    top: 60px;
+}
